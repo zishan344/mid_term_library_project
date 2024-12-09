@@ -55,7 +55,7 @@ book7 = Book(7, "The Catcher in the Rye", "J.D. Salinger", True)
 book8 = Book(8, "The Lord of the Rings", "J.R.R. Tolkien", True)
 book9 = Book(9, "The Alchemist", "Paulo Coelho", True)
 book10 = Book(10, "Harry Potter and the Sorcerer's Stone", "J.K. Rowling", True)
-# print(book1.view_book_info())
+# print(myBook.view_book_info())
 
 
 while(True):
